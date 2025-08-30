@@ -160,11 +160,17 @@ Si la branch ya no se va a utilizar se puede eliminar, hay distintos flujos de t
 
 ### 14. Practicando un poco
 
-Agrega en main en su archivo html y crea un commit
+Agrega en main en el head de su archivo html y crea un commit
 ``` html
 <link rel="stylesheet" href="style.css" />
 ``` 
 Haz una dos branch distintas llamada color-1 y color-2 con un archivo style.css y cambia el título de color, abre tu página web y cambia entre una branch y otra, revisando cómo cambia automáticamente la página (usando live server).
+```CSS
+h1{
+    color: rgb(20, 255, 243);
+}
+```
+Hacer merge del color que más les guste
 
 ### 15. Subir a vercel
 
