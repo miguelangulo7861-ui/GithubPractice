@@ -172,6 +172,8 @@ h1{
 ```
 Hacer merge del color que más les guste
 
+Poner su nombre completo en el HTML (en el título H1)
+
 ### 15. Subir a vercel
 
 [Ir a la página de vercel](https://vercel.com/)
